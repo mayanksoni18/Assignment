@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #35238f;
+    color: white;
+
+}
+.logo{
+    padding: 0 12px;
+    justify-content: center;
+    width: 362px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+padding: 19px;
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    padding: 0 13px;
+}
+.btn{
+    display: flex;
+    border-radius: 16px;
+    /* width: 90px; */
+    padding: 5px 15px;
+    background-color: #f89de3;
+}
+main{
+    display: flex;
+}
+.container{
+    padding: 55px 273px;
+    width: 22%;
+    color: white;
+}
+.container h1{
+    padding: 42px;
+    
+}
+.container1{
+    margin: 80px auto;
+    width: 22%;
+    background-color: white;
+    border-radius: 10px;
+    height: 467px;
+    color: black;
+}
+.btn3{
+    border-radius: 16px;
+    /* width: 90px; */
+    padding: 5px 15px;
+    background-color: #f89de3;
+    margin-top: 25px;
+}
+.container1 h1 {
+    padding: 26px;
+    margin-top: 34px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.form{
+    padding: 0 23px;
+    align-items: center;
+}
+.form p{
+    margin-left: 12px;
+}
+.input{
+    border-radius: 21px;
+    padding: 6px 99px;
+    font-size: 17px;
+    width: 84px;
+
+}
+.btn1{
+    display: flex;
+    border-radius: 16px;
+    width: 278px;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 0px;
+    background-color: #2f16e2;
+    color: white;
+    font-size: 16px;
+    margin: 15px 6px;
+}
+.btn2{
+    display: flex;
+    border-radius: 16px;
+    width: 278px;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 0px;
+    background-color: #2ceaf4;
+    color: white;
+    font-size: 16px;
+    margin: 15px 6px;
+}
+.sign-in{
+text-decoration: none;
+color: rgb(47, 244, 244);
+}
+span{
+    margin-left: 34px;
+}
